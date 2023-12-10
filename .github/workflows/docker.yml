@@ -40,7 +40,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: sparanoid/laplace-ai-chat
+          images: sparanoid/laplace.chat
           tags: |
             type=raw,value=latest
             type=ref,event=tag
