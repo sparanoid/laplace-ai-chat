@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "ChatGPT Next Web",
+    "productName": "LAPLACE AI Chat",
     "version": "2.9.12"
   },
   "tauri": {
